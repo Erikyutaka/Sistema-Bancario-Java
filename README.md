@@ -1,4 +1,4 @@
-# Sistema Bancário em Java
+# Projeto de Sistema Bancário em Java
 
 Projeto desenvolvido para praticar conceitos de programação orientada a objetos.
 
